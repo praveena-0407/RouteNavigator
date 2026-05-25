@@ -1,5 +1,8 @@
 # AP Smart Route Finder — Gradio Edition
 
+## Live Demo
+https://huggingface.co/spaces/SaiPraveena04/RouteNavigator
+
 A clean, single-file route planner for Andhra Pradesh cities with:
 - ✅ Dropdown city selector (70+ AP cities)
 - ✅ All paths found and listed (sorted shortest to longest)
