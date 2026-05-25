@@ -3,3 +3,4 @@ numpy>=1.26.0
 folium>=0.17.0
 pandas
 setuptools
+audioop-lts
